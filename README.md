@@ -1,2 +1,2 @@
-# strategy-pattern
-simple example of the estrategy pattern.
+# desingn-pattern
+simple example of the desingn pattern.

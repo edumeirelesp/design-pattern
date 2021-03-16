@@ -1,2 +1,2 @@
-# desingn-pattern
-simple example of the desingn pattern.
+# design-pattern
+simple example of the design pattern.

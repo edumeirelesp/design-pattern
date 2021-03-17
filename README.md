@@ -1,2 +1,2 @@
 # design-pattern
-simple example of the design pattern.
+simple design pattern examples.
